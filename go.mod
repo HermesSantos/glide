@@ -1,4 +1,4 @@
-module drag_and_drop
+module glide
 
 go 1.26.4
 
